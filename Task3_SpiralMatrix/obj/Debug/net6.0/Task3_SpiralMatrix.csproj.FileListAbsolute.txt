@@ -1,0 +1,15 @@
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/bin/Debug/net6.0/Task3_SpiralMatrix
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/bin/Debug/net6.0/Task3_SpiralMatrix.deps.json
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/bin/Debug/net6.0/Task3_SpiralMatrix.runtimeconfig.json
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/bin/Debug/net6.0/Task3_SpiralMatrix.dll
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/bin/Debug/net6.0/Task3_SpiralMatrix.pdb
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/obj/Debug/net6.0/Task3_SpiralMatrix.csproj.AssemblyReference.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/obj/Debug/net6.0/Task3_SpiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/obj/Debug/net6.0/Task3_SpiralMatrix.AssemblyInfoInputs.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/obj/Debug/net6.0/Task3_SpiralMatrix.AssemblyInfo.cs
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/obj/Debug/net6.0/Task3_SpiralMatrix.csproj.CoreCompileInputs.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/obj/Debug/net6.0/Task3_SpiralMatrix.dll
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/obj/Debug/net6.0/refint/Task3_SpiralMatrix.dll
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/obj/Debug/net6.0/Task3_SpiralMatrix.pdb
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/obj/Debug/net6.0/Task3_SpiralMatrix.genruntimeconfig.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork8/Task3_SpiralMatrix/obj/Debug/net6.0/ref/Task3_SpiralMatrix.dll
